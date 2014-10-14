@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VersityLAN
+title: Prochaine LAN
 permalink: /event/
 ---
 
@@ -11,7 +11,8 @@ VersityLAN #2
 
 40 places, 2 salles, Free-For-All de 18h à 00h, phases de tournoi.
 
-__Date : Jeudi 23 Octobre 2014__
+_
+_Date : Jeudi 23 Octobre 2014__
 
 __5€__, buffet à volonté inclus.
 
