@@ -14,3 +14,5 @@ Team Versity
 * [Snake](mailto:johan.cloots@wanadoo.fr): Communication
 * [JoystX](mailto:lucas.nicosia@yahoo.fr): Communication
 * [Mazel](mailto:aktora@sdjklhsdvl): Trésorerie
+
+Powered by >Echo.
