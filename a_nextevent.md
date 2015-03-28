@@ -15,7 +15,8 @@ Versity explose, on double les places.
 80 personnes, 4 salles, tournois endiablés de League Of Legends et de Super Smash Bros. 4 sur WiiU, ainsi qu'une zone casual sans tournois, mais avec de nombreux évènements ;) !
 
 
-Date : Vendredi 17 Avril 2014
+* Date : Vendredi 17 Avril 2014
+* Prix : 5€ / personne, réglé le jour de l'évènement.
 
 Programme
 -
@@ -59,40 +60,42 @@ Tournoi League Of Legends
 
 _le Gank est une façon de vivre.._
 
+
+<iframe width="300" height="88" src="//www.toornament.com/widget/tournaments/55127907150ba0153d8b4569/registration" frameborder="0" allowfullscreen></iframe> 
+
 Tournoi 5on5, nombre d'équipes indéfini.
 
 __Prix : 5 Cartes 1750RP__
-
-<iframe width="640" height="360" src="//www.toornament.com/widget/tournaments/55127907150ba0153d8b4569/navigator?_locale=fr_FR" frameborder="0" allowfullscreen></iframe> 
+ 
 
 Tournoi : Super Smash Bros. for WiiU
 =
 _WOMBO COMBOOOOO_
 
+<iframe width="300" height="88" src="//www.toornament.com/widget/tournaments/55127b20150ba0f6148b45af/registration" frameborder="0" allowfullscreen></iframe> 
+
 _Règles à venir sous peu ;)_
 
 __Prix : 1 Amiibo par personne pour le podium__
 
-<iframe width="640" height="360" src="//www.toornament.com/widget/tournaments/55127b20150ba0f6148b45af/navigator?_locale=fr_FR" frameborder="0" allowfullscreen></iframe> 
+
 
 Tournoi Starcraft II
 =
 
 _Toujours TOUJOURS scout.._
 
+<iframe width="300" height="88" src="//www.toornament.com/widget/tournaments/55127f7d150ba0153d8b45b4/registration?_locale=fr_FR" frameborder="0" allowfullscreen></iframe> 
 
 Tournoi 1on1, nombre de participants indéfini. 
 Pas de prize, c'est un tournoi pour la hype, mais il n'est pas exclu que Starcraft aie un prix pour les prochaines éditions.. ;)
- 
-<iframe width="640" height="360" src="//www.toornament.com/widget/tournaments/55127f7d150ba0153d8b45b4/navigator?_locale=fr_FR" frameborder="0" allowfullscreen></iframe> 
 
 Zone Casual
 =
 	
 Cette inscription vous permet de participer à la LAN et d'être placé dans des salles dédiées à une pratique moins compétitive. De nombreux évènements gaming vous seront proposés durant la soirée, libre à vous de participer ou non..
 
-
-<a style="color: black" class="myButton" href="http://goo.gl/forms/6SkHVwx6kf">Inscription</a>
+<iframe width="300" height="88" src="//www.toornament.com/widget/tournaments/55156e71150ba0674c8b4569/registration?_locale=fr_FR" frameborder="0" allowfullscreen></iframe> 
 
 Précédentes éditions
 -
