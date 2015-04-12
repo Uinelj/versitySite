@@ -9,6 +9,8 @@ Les LAN Versity se déroulent à intervalles réguliers : afin d'être au couran
 VersityLAN #3
 -
 
+[Que mettre dans mon sac ?](../bag/)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bPcK4Bq0_80" frameborder="0" allowfullscreen></iframe>
 
 Versity explose, on double les places.
