@@ -67,7 +67,12 @@ _le Gank est une façon de vivre.._
 
 Tournoi 5on5, nombre d'équipes indéfini.
 
-__Prix : 5 Cartes 1750RP__
+__Prix__
+
+1. 3200RP + Ryze Triomphant
+2. 2400RP
+3. 1600RP
+4. 800RP 
  
 
 Tournoi : Super Smash Bros. for WiiU
